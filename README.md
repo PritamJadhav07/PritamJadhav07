@@ -1,4 +1,4 @@
-Hello, It's Pritam, a software amd website Developer Student.
+Hello, It's Pritam, a software and website Developer Student.
 - Passionate about my Coding Skills an improving for better opportunities.
 - I'm currently learning Computer Applications in my Course Program.
   I learned C, C++, JAVA as Static Programming for Software Develop implementation.
